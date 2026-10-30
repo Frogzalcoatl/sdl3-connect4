@@ -1,8 +1,6 @@
 #include "Connect4/assets/sounds.h"
-#include "Connect4//system/consoleOutput.h"
-#include "Connect4/tools/virtualFileSystem.h"
+#include "Connect4/system/consoleOutput.h"
 #include <assert.h>
-
 
 static const char* SOUND_ASSETS[C4_SoundEffect_Count] = {
     "assets/sounds/ButtonClick.ogg",

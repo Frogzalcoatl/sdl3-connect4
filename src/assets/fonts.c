@@ -1,6 +1,5 @@
 #include "Connect4/assets/fonts.h"
 #include "Connect4/tools/dynamicArray.h"
-#include "Connect4/tools/virtualFileSystem.h"
 #include <assert.h>
 #include <stdio.h>
 
